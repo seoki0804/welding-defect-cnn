@@ -52,7 +52,3 @@ report_welding_defect.docx      개발 보고서
 ## 기술 스택
 
 TensorFlow/Keras · tensorflow-metal (Apple Silicon GPU) · Python
-
-## 참고
-
-aSSIST AI빅데이터 석사과정 Deep Learning 모듈 프로젝트입니다.
